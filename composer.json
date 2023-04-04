@@ -1,0 +1,15 @@
+{
+    "name": "brian/composer-quetes",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BrianV87",
+            "email": "Brian.v87@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
